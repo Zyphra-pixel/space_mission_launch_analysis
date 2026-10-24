@@ -25,4 +25,4 @@ Python • Pandas • Matplotlib • Jupyter Notebook
 Many launch prices are missing, their units need confirmation, and 2020 data covers only part of the year.
 
 ## Author
-Zohra Shaikh | [GitHub](https://github.com/Zyphra-pixel) • [LinkedIn](https://www.linkedin.com/in/zohra)
+Zohra Shaikh | [GitHub](https://github.com/Zyphra-pixel) • [LinkedIn](https://www.linkedin.com/in/zohra-shaikh-b356b7403/)
